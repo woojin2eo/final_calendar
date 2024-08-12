@@ -7,4 +7,4 @@ grant connect, resource to calendar;
 -- tablespace 사용권한 부여
 grant unlimited tablespace to calendar;
 
-ekajf
+김다빈 대머리년
